@@ -2,8 +2,7 @@
 # A program that simulates an escape room by having the user open a series of three doors
 # random chosen from several different types of doors. Use the following class diagram to create the program
 #
-# Dhrumit - I did main.py / BasicDoor.py / CodeDoor.py / door.py
-# Smit - I did LockedDoor.py / DeadboltDoor.py / ComboDoor.py / 
+
 
 
 import random
